@@ -1,0 +1,9 @@
+[submodule "frontend-of-the-online-course-platform"]
+	path = frontend-of-the-online-course-platform
+	url = https://github.com/burakataly/frontend-of-the-online-course-platform.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/burakataly/frontend-of-the-online-course-platform.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/burakataly/backend-of-the-online-course-platform.git
