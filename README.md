@@ -95,5 +95,3 @@ Make sure the following are installed on your machine:
    The frontend application will be available at `http://localhost:3000`.
 
 ---
-
-Feel free to improve or add more details as needed. 🎉
